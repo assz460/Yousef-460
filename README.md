@@ -4,18 +4,24 @@
 
 # pkg install python2
 
-# pkg install nodejs
-
 # npm install -g bash-obfuscate
 
 # chmod +x *
 
-# To Install All pkg => bash assz460.sh
+# bash Menu.sh
 
-# or. /assz460.sh
+# type .. Number 1
+
+# After Open The Tools  ↓  ↓   ↓  ↓
+
+# To Install All pkg => bash Bro.sh
+
+# or ./Bro.sh
 
 # To For encryption Script sh Make python2 Y.py
 
 # After Put File: /data/data/com.termux/files/home/Yousef-460/NAME.sh
 
 # After Put Output: /data/data/com.termux/files/home/Yousef-460/NAME.sh
+
+# Yousef-460
